@@ -1,0 +1,58 @@
+@font-face {
+    font-family: "Karla";
+    src: url("karla.bold.ttf")
+}
+
+body {
+    margin: 0;
+    background: #1F2937;
+
+}
+
+h1 {
+    color: #d3d3d3;
+    font-family: Karla;
+    font-size: 46px;
+    text-shadow: 1px 1px 2px black;
+    
+}
+
+#txt-generate {
+    margin: 25px 0 0px 50px;
+}
+
+#txt-random {
+    margin: 0px 50px;
+    color: #4ADF86; 
+}
+h3 {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    color: #495057;
+    font-size: 21px;
+    text-shadow: 1px 1px 2px black;
+    margin: 14px 0 0 50px;
+}
+button {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-weight: bold;
+    font-size: 18px;
+    color: #212529;
+    text-shadow: 0 0 1px #212529;
+    background: #4ADF86;
+    margin: 20px 8px 0 0;
+    padding: 7px 15px;
+    border: 0;
+    border-radius: 10px;
+}
+#border {
+    width: 480px;
+    margin: 17px 0;
+    border: 1px solid #081c15;
+}
+#btn-return, #btn-return1 {
+    margin: 0px 0 0 20px;
+    background-color: #212529;
+    color: #52b788;
+    padding: 13px 26px;
+    text-shadow: 1px 1px 1px black;
+}
